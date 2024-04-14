@@ -1,0 +1,3 @@
+C:/facultation/OOP/L4_Popa_Tudor/cmake-build-debug/CMakeFiles/L4_Popa_Tudor.dir
+C:/facultation/OOP/L4_Popa_Tudor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/facultation/OOP/L4_Popa_Tudor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
